@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652258262 source:c:\users\irina\documents\codeblocks\clasa a 11-a\modulul grafic\proiect\main.cpp
+	<iostream>
+	<graphics.h>
+	<cstring>
+	<stdio.h>
+
